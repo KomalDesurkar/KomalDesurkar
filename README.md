@@ -1,3 +1,5 @@
+<div align="center">           
+
 # Hi there! 👋
 
 Welcome to my GitHub profile! I'm currently on a journey to learn **Python** and **Data Science**. 🚀
@@ -19,3 +21,4 @@ Welcome to my GitHub profile! I'm currently on a journey to learn **Python** and
 
 
 
+</div>
